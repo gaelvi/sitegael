@@ -27,7 +27,7 @@ header {
 }
 
 .profissao {
-    background-image: linear-gradient(#7F27FF, #9F70FD);
+    background-image: linear-gradient(#282d7c, #290374);
     color: white;
     display: flex;
     justify-content: center;
@@ -80,6 +80,6 @@ body {
 .rodape{
     background-color: black;
     text-align: center;
-    color: white;
+    color: rgb(19, 18, 18);
     font-size: 25px;
 }
