@@ -94,4 +94,7 @@ body {
       max-width: 300px;
       margin: 10px 0; 
     }
+    .profissao-div:nth-of-type(1){
+    margin: 0%auto;
+   }
 }
